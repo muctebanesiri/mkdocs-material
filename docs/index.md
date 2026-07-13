@@ -1,9 +1,9 @@
 ---
 template: home.html
-title: Material for MkDocs
+title: مجله
 social:
   cards_layout_options:
-    title: Documentation that simply works
+    title: مرجع قوانین ایران
 ---
 
 Welcome to Material for MkDocs.
