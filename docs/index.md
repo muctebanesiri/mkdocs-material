@@ -1,6 +1,6 @@
 ---
 template: home.html
-title: مجله
+title: خانه
 social:
   cards_layout_options:
     title: مرجع قوانین ایران
