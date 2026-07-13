@@ -19,28 +19,25 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
+site_name: مجله
 site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_author: Mücteba Nesiri
 site_description: >-
   Write your documentation in Markdown and create a professional static site in
   minutes – searchable, customizable, in 60+ languages, for all devices
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: muctebanesiri/mkdocs-material
+repo_url: https://github.com/muctebanesiri/mkdocs-material
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2026 Martin Donath
+copyright: Copyright &copy; 2016 - 2026 Mücteba Nesiri
 
 # Configuration
 theme:
   name: material
   custom_dir: material/overrides
   language: fa  # Farsça dil kodunu girdiğinizde tema otomatik olarak RTL (Sağdan Sola) düzenine geçer
-  font:
-    text: Vazirmatn # Farsça karakterler için en uyumlu ve okunaklı fontlardan biridir
-    code: Roboto Mono
   features:
     - content.action.edit
     - content.action.view
@@ -88,7 +85,7 @@ theme:
         icon: material/toggle-switch-off
         name: Switch to system preference
   font:
-    text: Roboto
+    text: Vazirmatn
     code: Roboto Mono
   favicon: assets/favicon.png
   icon:
