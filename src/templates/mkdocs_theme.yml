@@ -19,10 +19,10 @@
 # IN THE SOFTWARE.
 
 # Language for theme localization
-language: en
+language: fa
 
 # Text direction (can be ltr or rtl), default: ltr
-direction:
+direction: rtl
 
 # Feature flags for functionality that alters behavior significantly, and thus
 # may be a matter of taste
@@ -33,7 +33,7 @@ features: []
 font:
 
   # Default font for text
-  text: Roboto
+  text: Vazirmatn
 
   # Fixed-width font for code listings
   code: Roboto Mono
